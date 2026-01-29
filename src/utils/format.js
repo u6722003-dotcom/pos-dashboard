@@ -1,0 +1,6 @@
+export const formatCategory = (cat) => {
+  return cat
+    .split("_")
+    .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+    .join(" ");
+};
