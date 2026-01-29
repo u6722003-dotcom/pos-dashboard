@@ -1,3 +1,24 @@
+# POS Dashboard
+
+This project is a simple Point of Sale (POS) dashboard web application built with React and Vite.
+
+## Live Demo
+https://u6722003-dotcom.github.io/pos-dashboard/
+
+## Screenshots
+
+### Dashboard
+![Dashboard](./POS-Dashboard.png)
+
+### Sales Journal
+![Sales Journal](./POS-SalesJournal.png)
+
+## Team Members
+- Andrei Filip
+- NAY MIN KHANT
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
